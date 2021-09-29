@@ -11,10 +11,15 @@ It's a basic python program based on the Pillow Module to create bulk certificat
 Making it as detailed as possible so even a beginner can complete this process. Hence, if you aren't new to python just skip the steps.
 
 STEP 1: Setting up IDE (Here, PyCharm is being used)
+
 STEP 2: Installing the modules
+
 STEP 3: Setting up your Certificate
+
 STEP 4: Setting up your Excel Sheet
+
 STEP 5: Setting up the position where you want the name to be printed.
+
 STEP 6: Get all your certificates.
 
 ## STEP 1: Setting up IDE (Here, PyCharm is being used)
