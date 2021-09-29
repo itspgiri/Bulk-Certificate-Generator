@@ -1,6 +1,8 @@
 # Bulk-Certificate-Generator
 Let's anyone create as many certificates in a fraction of time with just small input to specify where to print the names, data, etc. I have writen a step-by-step process to help run this code with minimal changes in the code - as the certificate will change person to person and so will the code. It's a simple code, for anyone even without a python background to run and implement.
 
+Let's you align where your text goes on the Certificate Template.
+
 # INTRODUCTION
 It's a basic python program based on the Pillow Module to create bulk certificates for any event. Most softwares available online render a low quality certificate. It only requires you to make two changes
 
