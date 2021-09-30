@@ -1,7 +1,10 @@
 # Bulk-Certificate-Generator
-Let's anyone create as many certificates in a fraction of time with just small input to specify where to print the names, data, etc. I have writen a step-by-step process to help run this code with minimal changes in the code - as the certificate will change person to person and so will the code. It's a simple code, for anyone even without a python background to run and implement.
+Let's anyone create as many certificates in a fraction of time with just small input to specify where to print the names, data, etc. I have writen a step-by-step process to help run this code with minimal changes in the code - as the certificate will change person to person and so will the code. It's a simple code, for anyone even without a python background to run and implement. There are two codes available:
 
-Let's you align where your text goes on the Certificate Template.
+1. Create Certificate Only - BulkCertMaker.py - Medium Blog Here + All Steps written below as well.
+2. Create Certificate and Email - BulkCertMaker - With Email.py - Medium Blog Here
+
+Let's you align where your text goes on the Certificate Template. Also, automatically then send the email using your specified E-Mail.
 
 # INTRODUCTION
 It's a basic python program based on the Pillow Module to create bulk certificates for any event. Most softwares available online render a low quality certificate. It only requires you to make two changes
@@ -77,7 +80,7 @@ I really suggest using https://cloudconvert.com/ to convert any PDF file of the 
 ![image](https://user-images.githubusercontent.com/80326865/135324054-e5e75941-58e9-486b-b296-a973e813a771.png)
 
 # CONCLUSION
-Let me know if there are any other issues you face or any code improvement suggestions one may have. Finally, I'd love to add an extenstion to this which automatically email the final certificate to the participants. Message me on any of my social media platforms to get in touch about this. 
+Check my medium blog for step by step guide on how to even email these certificates - [Here](https://itspgiri.medium.com/create-and-e-mail-bulk-certificates-with-python-for-free-18ad7c7ab528).
 
-
+Let me know if there are any other issues you face or any code improvement suggestions one may have. 
 
