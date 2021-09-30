@@ -1,5 +1,7 @@
 # Bulk-Certificate-Generator
-Let's anyone create as many certificates in a fraction of time with just small input to specify where to print the names, data, etc. I have writen a step-by-step process to help run this code with minimal changes in the code - as the certificate will change person to person and so will the code. It's a simple code, for anyone even without a python background to run and implement. There are two codes available:
+###Working as of 30th September 2021.
+
+Let's anyone create and email as many certificates in a fraction of time with just small input to specify where to print the names, data, etc. I have writen a step-by-step process to help run this code with minimal changes in the code - as the certificate will change person to person and so will the code. It's a simple code, for anyone even without a python background to run and implement. There are two codes available:
 
 1. Create Certificate Only - BulkCertMaker.py - Medium Blog Here + All Steps written below as well.
 2. Create Certificate and Email - BulkCertMaker - With Email.py - Medium Blog Here
